@@ -1,0 +1,12 @@
+Teste técnico - desenvolvedor júnior
+
+- dado um código em c e um em python imprimir o endereço de memória de ao menos 5 variaveis
+- ler n números de teclado enquanto o número 0 não for digitado,
+	- em c, 
+		- alocar dinamicamente o espaço a cada número novo inserido
+		- navegar o vetor criado usando notação de ponteiro ou notação de vetor
+			- mostrar os valores capturados do teclado
+	- em python 
+		- mostrar os endereços de memória 
+		- mostrar o valores
+		- mostrar o reference count
